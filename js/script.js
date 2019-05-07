@@ -2,21 +2,21 @@
 var movies = [
 	{
         id: 1,
-        image: './image/wladca.jpeg',
+        image: './images/wladca.jpeg',
         title: 'Wladca pierscieni',
         type: 'Fantasy/Akcji',
         desc: 'Ekranizacja Trylogii Tolkiena'
     },
     {
         id: 2,
-        image: './image/hobbit.jpg',
+        image: './images/hobbit.jpg',
         title: 'Hobbit',
         type: 'Fantasy/Przygodowy',
         desc: 'Prequel Władca Pierścieni'
     },
     {
         id: 3,
-        image: './image/harry.jpeg',
+        image: './images/harry.jpg',
         title: 'Harry Potter',
         type: 'Fantasy',
         desc: 'Przygody młodych czarodziejów'
